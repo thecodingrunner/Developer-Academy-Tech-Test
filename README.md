@@ -14,4 +14,4 @@
 1. Distance between point and radar origin must be shorter than the max radar distance
 2. Point must be within the diagonal border of the radar horizontally
 3. Point must be within the diagonal border of the radar vertically
-4. Point must be on the correct side of the radar origin depending on direction of the radar (checked as absolute values are used for checking the previous conditions)
+4. Point must be on the correct side of the radar origin depending on direction of the radar (this is checked because absolute values are used for checking the previous conditions)
