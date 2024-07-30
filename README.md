@@ -1,14 +1,14 @@
 # The Developer Academy Games Development Tech Test
 
-### Comments are included in the code file to provide context/explanation for the solution. 
+### Comments are also included in the code file to provide context/explanation for the solution. 
 
 ## Brief explanation of the solution
 
 ### Sequence of actions within the function
-1. locate the specified point from the points array using its Number value
+1. Locate the specified point from the points array using its Number value
 2. Check the direction of the radar, so that the correct conditional checking can be applied (Switch statement)
 3. For each point in the array, check whether it is within the area of the radar (adding the point to an array if it is)
-4. return the final array of points within the radar area
+4. Return the final array of points within the radar area
 
 ### Conditions for checking if point is within radar area
 1. Distance between point and radar origin must be shorter than the max radar distance
